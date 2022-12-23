@@ -2,7 +2,7 @@
 
 Use the following parts: *Because there are few, it is not BOM.
 
-QTY.  LOCATION PARTS                   LINKS
+QTY.  LOCATION PARTS                   LINKS<br>
 2     P1,P2    50pin Female Connecter  https://www.digikey.com/short/dwq849tr<br>
 1     F1       *1206 1A PolySwitch<br>
 1     R1       1206 330ohms Resistor<br>      
