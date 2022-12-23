@@ -6,14 +6,9 @@ Especially designed for Mac SE/30, SE...
 
 *[BlueSCSI](https://github.com/erichelgeson/BlueSCSI)!*
 
-## Ordering & Supplies
-
-You will also need the following parts:
+## Assemble
 
 Check out the [assembly instructions](Assembly/README.md) when you're ready to get started.
-
-
-## Open Source
 
 
 ## License
