@@ -12,4 +12,4 @@ QTY.  LOCATION PARTS                   COMMENT<br>
 <BR>
 50pin connecter link:
 https://www.digikey.com/short/dwq849tr
-Cheap Chinese connectors can be used, but they are tight and difficult to use.I can recommend a good one even if it is expensive.
+* Cheap Chinese connectors can be used, but they are tight and difficult to use.I can recommend a good one even if it is expensive.
