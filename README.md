@@ -26,7 +26,7 @@ Macintosh SE, SE/30, Classic, Classic2 *It may work for IIcx and IIci, but it ha
 
 ## Gerber files
 
-You can use it by compressing "ER_R1.2_GERBER" and uploading it to JLCPCB as it is.
+You can use it by compressing [ER_R1.2_GERBER](ER_R1.2_GERBER)  and uploading it to JLCPCB as it is.
 
 ## License
 
