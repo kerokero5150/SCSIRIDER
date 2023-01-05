@@ -10,6 +10,9 @@ Especially designed for Mac SE/30, SE...
 
 Check out the [assembly instructions](Assembly/README.md) when you're ready to get started.
 
+## Gerber files
+
+You can use it by compressing "ER_R1.2_GERBER" and uploading it to JLCPCB as it is.
 
 ## License
 
