@@ -1,6 +1,6 @@
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ＜BR>
-![alt](images/IMG_4263.jpg)
+　![alt](images/IMG_4263.jpg)
 # What kind of product is this
 This is an adapter for connecting SCSI devices like BlueSCSI to the internal SCSI 50pin connector.
 Especially designed for Mac SE/30, SE...
@@ -9,6 +9,7 @@ Especially designed for Mac SE/30, SE...
 *[BlueSCSI](https://github.com/erichelgeson/BlueSCSI)*
 <BR>
   ![alt](images/IMG_4259.jpg)
+＜BR>
 More details here (My Blog):
   https://ameblo.jp/keroxiee1016/entry-12782849654.html
 
