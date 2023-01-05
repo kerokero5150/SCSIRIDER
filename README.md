@@ -10,6 +10,10 @@ Especially designed for Mac SE/30, SE...
 
 Check out the [assembly instructions](Assembly/README.md) when you're ready to get started.
 
+## Supported Macs
+
+Macintosh SE, SE/30, Classic, Classic2 *It may work for IIcx and IIci, but it has not been verified yet.
+
 ## Gerber files
 
 You can use it by compressing "ER_R1.2_GERBER" and uploading it to JLCPCB as it is.
