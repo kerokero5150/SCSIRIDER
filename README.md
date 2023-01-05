@@ -3,8 +3,12 @@
 # What kind of product is this
 This is an adapter for connecting SCSI devices like BlueSCSI to the internal SCSI 50pin connector.
 Especially designed for Mac SE/30, SE...
+<BR>
+  This card is made for
+*[BlueSCSI](https://github.com/erichelgeson/BlueSCSI)*
 
-*[BlueSCSI](https://github.com/erichelgeson/BlueSCSI)!*
+More details here (My Blog):
+  https://ameblo.jp/keroxiee1016/entry-12782849654.html
 
 ## Assemble
 
