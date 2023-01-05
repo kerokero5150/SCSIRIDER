@@ -18,7 +18,10 @@ More details here (My Blog):
 Check out the [assembly instructions](Assembly/README.md) when you're ready to get started.
 
 ## Supported Macs
-
+![alt](images/IMG_4253.jpeg)
+<BR>
+*SCSI RIDER with Classic2
+<BR><BR>
 Macintosh SE, SE/30, Classic, Classic2 *It may work for IIcx and IIci, but it has not been verified yet.
 
 ## Gerber files
