@@ -5,7 +5,7 @@
 This SCSI RIDER is riser card for connecting SCSI devices like BlueSCSI to the internal SCSI 50pin connector.
 Especially designed for Mac SE/30, SE...
 <BR>
-  This card is made for
+The device to be installed is mainly assumed to be 
 *[BlueSCSI](https://github.com/erichelgeson/BlueSCSI)*
 <BR>
   ![alt](images/IMG_4259.jpg)
