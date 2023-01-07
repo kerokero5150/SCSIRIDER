@@ -17,10 +17,8 @@ PolySwitch link:https://6a11.short.gy/PU9sCv
 
 <BR>
 * Cheap Chinese connectors can be used, but they are tight and difficult to use.I can recommend a good one even if it is expensive.
-  
-  
-  ## Assemble
-  <BR>
-  　![alt](images/IMG_4263.jpeg)
-    <BR>
-  　![alt](images/IMG_4264.jpeg)
+## Assemble
+<BR>
+![alt](images/IMG_4263.jpeg)
+<BR>
+![alt](images/IMG_4264.jpeg)
